@@ -1,20 +1,3 @@
-# Programming for Web Development – I Laboratory
-
-> **Course:** Programming for Web Development – I Laboratory  
-> **Student:** Nilay Raj  
-> **Specialization:** First Year B.Tech Computer Science & Engineering (AIML)  
-> **Repository:** [https://github.com/NilayOverp94/Web_Dev_Lab](https://github.com/NilayOverp94/Web_Dev_Lab)
-
----
-
-## Overview
-
-This repository contains the complete, production-grade solutions for all 13 laboratory practical assignments specified in the **Programming for Web Development – I Laboratory** curriculum. The curriculum spans terminal CLI navigation, Git version control workflows, semantic HTML5 document architecture, CSS custom properties (design tokens), advanced positioning, Flexbox one-dimensional distribution, and CSS Grid two-dimensional layout orchestration.
-
----
-
-## Laboratory Curriculum & Practicals Index
-
 ### Module 1: Terminal & Git Foundations (P1–P4)
 
 | Practical | Title | Focus & Core Mechanics | Folder Link |
@@ -47,88 +30,12 @@ This repository contains the complete, production-grade solutions for all 13 lab
 | **P12** | Portfolio Projects Grid with Advanced CSS Grid | Asymmetric 12-column Bento project grid utilizing `grid-column: span`, `grid-row: span`, and responsive track adaptations. | [View P12](P12/index.html) |
 | **P13** | Choosing Between Flexbox and Grid for a Shared Layout | In-depth architectural evaluation and side-by-side component implementations comparing 1D content-out Flexbox with 2D container-in CSS Grid. | [View P13](P13/index.html) |
 
----
-
-## Repository Structure
-
-```text
-Web_Dev_Lab/
-├── P1/                   # Project folder and terminal navigation
-│   └── Readme.md
-├── P2/                   # Portfolio repo with an initial commit
-│   └── Readme.md
-├── P3/                   # Feature-branch Git workflow
-│   └── Readme.md
-├── P4/                   # GitHub README and version tags
-│   └── Readme.md
-├── P5/                   # Semantic bio page
-│   ├── index.html
-│   ├── style.css
-│   └── P5.png
-├── P6/                   # Full portfolio page structure in semantic HTML
-│   ├── index.html
-│   ├── style.css
-│   └── P6.png
-├── P7/                   # Design tokens and typography system in CSS
-│   ├── index.html
-│   ├── style.css
-│   └── P7.png
-├── P8/                   # Sticky navbar and card overlay using CSS positioning
-│   ├── index.html
-│   ├── style.css
-│   └── P8.png
-├── P9/                   # Responsive navbar and card grid using Flexbox
-│   ├── index.html
-│   ├── style.css
-│   └── P9.png
-├── P10/                  # Portfolio header and footer with advanced Flexbox
-│   ├── index.html
-│   ├── style.css
-│   └── P10.png
-├── P11/                  # Newspaper-style three-column layout with CSS Grid
-│   ├── index.html
-│   ├── style.css
-│   └── P11.png
-├── P12/                  # Portfolio projects grid with advanced CSS Grid
-│   ├── index.html
-│   ├── style.css
-│   └── P12.png
-├── P13/                  # Choosing between Flexbox and Grid for a shared layout
-│   ├── index.html
-│   ├── style.css
-│   └── P13.png
-└── README.md             # Root course documentation & index
-```
-
----
-
 ## Technologies & Methodologies
 
-- **Markup:** HTML5 (Living Standard, W3C Semantic Validation)
-- **Styling:** CSS3, CSS Custom Properties (`:root`), Flexbox, CSS Grid
-- **Version Control:** Git CLI, GitHub, Semantic Versioning (SemVer)
-- **Development Tools:** Visual Studio Code, Unix / Zsh Terminal, Chrome DevTools
+- **Markup:** HTML, CSS
+- **Version Control:** Git CLI, GitHub
+- **Development Tools:** Visual Studio Code
 
 ---
-
-## Verification & Local Preview
-
-To inspect and test any of the web practicals locally:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/NilayOverp94/Web_Dev_Lab.git
-   cd Web_Dev_Lab
-   ```
-2. Open any practical in your browser:
-   ```bash
-   # Example: Open Practical 11 (Newspaper Layout)
-   open P11/index.html
-   ```
-
----
-
-## Author
 
 **Nilay Raj**  
-First Year B.Tech Computer Science & Engineering (AIML)  
-GitHub: [@NilayOverp94](https://github.com/NilayOverp94) &middot; Email: [nilayraj713@gmail.com](mailto:nilayraj713@gmail.com)
