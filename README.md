@@ -2,7 +2,6 @@
 
 - **Course:** Programming for Web Development – I Laboratory  
 - **Student:** Nilay Raj  
-- **Branch:** First Year B.Tech CSE (AIML)  
 - **Repository:** https://github.com/NilayOverp94/Web_Dev_Lab  
 
 ---
@@ -68,16 +67,11 @@ This repository contains my lab work and practical assignments for the **Program
 
 ## Technologies Used
 
-- **HTML5** (Semantic structure)
-- **CSS3** (Flexbox, CSS Grid, Custom Properties)
+- **HTML** (Semantic structure)
+- **CSS** (Flexbox, CSS Grid, Custom Properties)
 - **Git & GitHub** (Version control and branch management)
-- **Terminal** (Zsh / Bash command line)
 - **Visual Studio Code**
 
 ---
 
-## Author
-
 **Nilay Raj**  
-First Year B.Tech CSE (AIML) Student  
-GitHub: [@NilayOverp94](https://github.com/NilayOverp94) &middot; Email: [nilayraj713@gmail.com](mailto:nilayraj713@gmail.com)
