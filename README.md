@@ -1,3 +1,20 @@
+# Programming for Web Development – I Laboratory
+
+- **Course:** Programming for Web Development – I Laboratory  
+- **Student:** Nilay Raj  
+- **Branch:** First Year B.Tech CSE (AIML)  
+- **Repository:** https://github.com/NilayOverp94/Web_Dev_Lab  
+
+---
+
+## Overview
+
+This repository contains my lab work and practical assignments for the **Programming for Web Development – I Laboratory** course. It covers the basics of the command line, Git and GitHub, semantic HTML5, CSS styling, Flexbox, and CSS Grid.
+
+---
+
+## Practicals List
+
 ### Module 1: Terminal & Git Foundations (P1–P4)
 
 - **[P1: Project folder and terminal navigation](P1/Readme.md)**  
@@ -47,12 +64,20 @@
 - **[P13: Choosing between Flexbox and Grid for a shared layout](P13/index.html)**  
   Comparing Flexbox and CSS Grid side by side to understand when to use each layout method.
 
-## Technologies & Methodologies
+---
 
-- **Markup:** HTML, CSS
-- **Version Control:** Git CLI, GitHub
-- **Development Tools:** Visual Studio Code
+## Technologies Used
+
+- **HTML5** (Semantic structure)
+- **CSS3** (Flexbox, CSS Grid, Custom Properties)
+- **Git & GitHub** (Version control and branch management)
+- **Terminal** (Zsh / Bash command line)
+- **Visual Studio Code**
 
 ---
 
+## Author
+
 **Nilay Raj**  
+First Year B.Tech CSE (AIML) Student  
+GitHub: [@NilayOverp94](https://github.com/NilayOverp94) &middot; Email: [nilayraj713@gmail.com](mailto:nilayraj713@gmail.com)
